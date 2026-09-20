@@ -27,8 +27,9 @@ O programa utiliza estruturas condicionais (`if`, `elif` e `else`) para determin
 | --------------------------------------------- | ------------------------- |
 | Imóvel **comercial**                          | Tarifa comercial aplicada |
 | Apartamento com consumo **menor que 10 m³**   | Consumo econômico         |
-| Apartamento com consumo **a partir de 10 m³** | Consumo moderado          |
+| Apartamento com consumo **até 25 m³**         | Consumo moderado          |
 | Casa com consumo de **até 25 m³**             | Consumo moderado          |
+| Apartamento acima de **25 m³**                | Consumo excessivo         |
 | Casa acima de **25 m³**                       | Consumo excessivo         |
 
 ### ✅ Validação
